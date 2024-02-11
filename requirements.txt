@@ -1,0 +1,4 @@
+TTS==0.22.0 #https://pypi.org/project/TTS/
+transformers==4.37.2 #https://pypi.org/project/transformers/
+accelerate==0.27.0 #https://pypi.org/project/accelerate/
+torch==2.2.0 #https://pypi.org/project/torch/
